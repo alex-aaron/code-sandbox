@@ -44,5 +44,27 @@ Lebenslangerschicksalsschatz: Someone you've been destined to be with all of you
 
 Kleinkreig: A feud between people trapped in their egos.
 
+### First Drawing
+```
+[
+  'Anna: Geborgenheit',
+  'Emma: Weltschmerz',
+  'Andrew: Flughafenbegrussungsfreude',
+  'Courtney: Zumzwang',
+  'Stan, Sr: Luftschloss',
+  'John: Schnapsidee',
+  'Robby: Fuchsteufelswild',
+  'Lissy: Torschlusspanik',
+  'Kyle: Sehnsucht',
+  'Buena: Götterdämmerung',
+  'Celeste: Vergangenheitsbewaeltigung',
+  'Christine: Sturmfrei',
+  'Alex: Waldeinsamkeit',
+  'Steph: Lebensmüde',
+  'Stan: Lebenskunstle',
+  'Sean: Schockstarre',
+  'Janel: Backpfeifengesicht'
+]
+```
 
 
